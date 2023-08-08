@@ -1,0 +1,15 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "creating a weather node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kartikey",
+  "license": "ISC",
+  "dependencies": {
+    "kelvin-to-celsius": "^1.1.0",
+    "requests": "^0.3.0"
+  }
+}
